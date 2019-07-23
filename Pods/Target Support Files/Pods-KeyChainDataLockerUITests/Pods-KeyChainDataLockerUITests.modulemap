@@ -1,0 +1,6 @@
+framework module Pods_KeyChainDataLockerUITests {
+  umbrella header "Pods-KeyChainDataLockerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
